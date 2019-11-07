@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="Gravajson.java" kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="src/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="src/jdom.jar"/>
+	<classpathentry kind="src" path="/Papg"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
